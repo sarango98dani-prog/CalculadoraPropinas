@@ -39,7 +39,7 @@ fun CalculadoraPropinas() {
 
         Text(
             text = "Calculadora de Propinas",
-            fontSize = 30.sp
+            fontSize = 28.sp
         )
 
         Spacer(modifier = Modifier.height(20.dp))
